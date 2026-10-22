@@ -1,0 +1,47 @@
+/* Background around the webpage */
+body {
+    margin: 0;
+    padding: 50px 0;
+
+    background-image: url(images/VP1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.container {
+    background-color: white;
+    width: 80%;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+/* White content area */
+.container {
+    width: 85%;
+    max-width: 1400px;
+    margin: 0 auto;
+
+    background-color: white;
+    padding: 35px;
+
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Website title */
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color: #000000;
+}
+/* Section heading */
+h2 {
+    color: #000000;
+    font-size: 36px;
+}
+li {
+    font-size: 24px;
+}
+p {
+    font-size: 20px;
+}
